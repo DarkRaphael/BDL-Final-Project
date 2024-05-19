@@ -1,0 +1,5 @@
+numpy==1.26.4
+fastapi==0.111.0
+prometheus_client==0.20.0
+uvicorn==0.29.0
+python-multipart
